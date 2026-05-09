@@ -44,7 +44,7 @@ Buckets Update — refresh the Minecraft bucket family with new craftable varian
 wooden buckets (durability), copper buckets (oxidation stages), and waxed copper buckets (infinite).
 Wax with honeycomb, scrub with an axe to restore. Iron bucket recipe revisited to use a chain.
 '''
-authors="darthica"
+authors="JessicaMalle"
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.
 #[[mixins]]

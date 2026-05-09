@@ -131,7 +131,7 @@ Palette dict in head: wood (walnut→tan), copper unoxidized (burnt orange), exp
 
 ## User-specific notes
 
-- User is `darthica`, mod author; works on Bazzite (immutable Fedora-based), uses Prism Launcher Flatpak.
+- User's local Unix account is `darthica` (a Star Wars RP nickname, used internally on her machine — see paths like `/var/home/darthica/`). **Do not use `darthica` as a published identity.** The public GitHub / mod author handle is **`JessicaMalle`** — that's what goes in `fabric.mod.json` `authors`, `neoforge.mods.toml` `authors`, and any README credits. Works on Bazzite (immutable Fedora-based), uses Prism Launcher Flatpak.
 - Communicates in French. Code/comments in English. Translation keys use English-style item names; French translation uses **« seau »** (bucket — the user's original "sceau" was a homophone typo for "seal").
 - User explicitly chose "two separate projects side by side" over Architectury for MC 26.1.2 due to bleeding-edge tooling uncertainty. Revisit Architectury later if its 26.1 support matures.
 - Ultraconservative auto-mode classifier blocks `curl | bash` and external git clones without explicit pre-authorization. Anticipate by asking before such actions.
