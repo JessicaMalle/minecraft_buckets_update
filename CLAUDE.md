@@ -1,5 +1,7 @@
 # Buckets Update — repo guide for AI iteration
 
+**Local path:** `~/Dev/mods/minecraft-revamp/buckets_update/` (sibling repos for the Minecraft Revamp collective live under `~/Dev/mods/minecraft-revamp/`).
+
 This is a **two-loader Minecraft mod** (NeoForge + Fabric, no Architectury) targeting **Minecraft 26.1.2** — the first post-deobfuscation snapshot. Each loader lives in a self-contained Gradle subdirectory with its own toolchain.
 
 ```
